@@ -1,4 +1,4 @@
-
+#Without Argument without return type
 
 def my_function():
     print("We are Anonymous")
